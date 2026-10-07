@@ -1,0 +1,16 @@
+# Secrets and local editor configuration
+.env
+.vscode/
+
+# Python virtual environments and bytecode
+backend/venv/
+**/__pycache__/
+*.py[cod]
+
+# Flutter/Dart generated files
+frontend/.dart_tool/
+frontend/build/
+
+# OS files
+.DS_Store
+Thumbs.db
